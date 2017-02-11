@@ -1,8 +1,6 @@
 /* ------------------------------
  Program: output.c
  Author: Ugo-Michael Onuke
- ID: B00086821
- Date: 18 February 2016
  Purpose: Write a program that calculates your Body Mass Index and catagorises it.
  ------------------------------*/
 #include <stdio.h>
