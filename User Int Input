@@ -1,8 +1,6 @@
 /* ------------------------------
  Program: output.c
  Author: Ugo-Michael Onuke
- ID: B00086821
- Date: 4 February 2016
  Purpose: Write a program to accept two integer numbers and display their total, difference product and modulus.
  ------------------------------*/
 #include <stdio.h>
