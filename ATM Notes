@@ -1,8 +1,6 @@
 /* ------------------------------
  Program: output.c
  Author: Ugo-Michael Onuke
- ID: B00086821
- Date: 4 February 2016
  Purpose: Write a program to output the number of notes and 1 pound coins necessary to ‘make up’ the amount.
  ------------------------------*/
 #include <stdio.h>
