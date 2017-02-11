@@ -1,8 +1,6 @@
 /* ------------------------------
  Program: output.c
  Author: Ugo-Michael Onuke
- ID: B00086821
- Date: 4 February 2016
  Purpose: Write a program that prints numbers 51 to 54.
  ------------------------------*/
 #include <stdio.h>
