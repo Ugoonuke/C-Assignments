@@ -1,0 +1,19 @@
+/* ------------------------------
+ Program: output.c
+ Author: Ugo-Michael Onuke
+ Purpose: Write a program that uses variables to print out statements.
+ ------------------------------*/
+#include <stdio.h>
+#include <stdlib.h>
+
+// Program 1a -------------------
+int main(void)
+{
+    printf("       *\n");
+    printf("      *\n");
+    printf("     *\n");
+    printf("*   *\n");
+    printf(" * *\n");
+    printf("  *\n");
+    return 0;
+}
