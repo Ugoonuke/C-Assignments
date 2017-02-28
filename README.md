@@ -1,2 +1,2 @@
 # University-Lab-Assignments-C
-This repo will contain all the code done using C in University.
+This repo will contain all C program assignments completed in University.
